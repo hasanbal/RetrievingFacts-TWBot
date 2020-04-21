@@ -2,7 +2,11 @@
 
 Twitter Bot which retrieve facts about your friends.
 
-# Example Usage of Bot: 
+## Tech Stack:
+
+- Node.js
+
+## Example Usage of Bot: 
 
 " tell me something I don't know  
 @username1
